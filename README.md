@@ -36,6 +36,3 @@ agroadvisor is a smart crop recommendation system that uses the Naive Bayes Algo
 Frontend: HTML, CSS, JavaScript, jQuery
 Backend: Flask
 Data Processing and Visualization: NumPy, pandas, Matplotlib, scikit-learn (used for training the model)
-
-## Contact
-Arpit Bhardwaj- LinkedIn- https://www.linkedin.com/in/arpit-bhardwaj-a91092236
