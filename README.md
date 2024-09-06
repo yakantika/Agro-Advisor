@@ -1,7 +1,7 @@
-# agroadvisor
+# AgroAdvisor
 
 ## Description
-agroadvisor is a smart crop recommendation system that uses the Naive Bayes Algorithm to suggest crops based on various factors. It also features yield prediction and weather forecasting to assist farmers in making informed decisions.
+AgroAdvisor is a smart crop recommendation system that uses the Naive Bayes Algorithm to suggest crops based on various factors. It also features yield prediction and weather forecasting to assist farmers in making informed decisions.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -14,7 +14,7 @@ agroadvisor is a smart crop recommendation system that uses the Naive Bayes Algo
     Ensure you have Python 3.8 or above installed on your system.
 
 2. Clone the repository:
-    git clone https://github.com/yakantika/agro-advisor
+    git clone https://github.com/yakantika/Agro-Advisor
 
 3. Navigate to the project directory:
     cd agroadvisor
