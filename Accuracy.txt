@@ -1,0 +1,14 @@
+Predicting Agriculture Using Naive Bayes Algorithm
+
+Yield prediction 
+
+Algorithm / Model Used: Random Forest Regressor
+
+Overall Accuracy: 0.96 
+
+
+Crop prediction 
+
+Algorithm / Model Used: GaussianNB
+
+Train accuracy :0.59 and Test accuracy: 0.59 
